@@ -1,0 +1,14 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		float salario =2.500f;
+		double salarioSemestral = 22.000;
+		decimal salarioAnual =25.000m;
+		Console.WriteLine(salario);
+		Console.WriteLine(salarioSemestral);
+		Console.WriteLine(salarioAnual);
+	}
+}
