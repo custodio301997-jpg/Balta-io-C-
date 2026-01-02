@@ -1,0 +1,10 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		const int IDADE_MINIMA = 25;
+		Console.WriteLine(IDADE_MINIMA);
+	}
+}
