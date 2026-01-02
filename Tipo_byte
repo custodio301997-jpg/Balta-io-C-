@@ -1,0 +1,10 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		byte meuByte = 127;
+		Console.WriteLine(meuByte);
+	}
+}
