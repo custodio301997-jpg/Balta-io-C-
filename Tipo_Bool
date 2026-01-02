@@ -1,0 +1,13 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		bool usuarioJaCadastrado = false;
+		bool pagamentoRecebido = true;
+		Console.WriteLine(usuarioJaCadastrado);
+		Console.WriteLine(pagamentoRecebido);
+
+	}
+}
